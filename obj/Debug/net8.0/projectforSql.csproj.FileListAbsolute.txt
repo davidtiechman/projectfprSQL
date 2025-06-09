@@ -38,3 +38,4 @@ C:\Users\This_user\source\repos\projectforSql\obj\Debug\net8.0\refint\projectfor
 C:\Users\This_user\source\repos\projectforSql\obj\Debug\net8.0\projectforSql.pdb
 C:\Users\This_user\source\repos\projectforSql\obj\Debug\net8.0\projectforSql.genruntimeconfig.cache
 C:\Users\This_user\source\repos\projectforSql\obj\Debug\net8.0\ref\projectforSql.dll
+C:\Users\This_user\source\repos\projectforSql\obj\Debug\net8.0\projectforSql.sourcelink.json

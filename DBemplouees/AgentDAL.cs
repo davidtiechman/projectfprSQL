@@ -8,12 +8,12 @@ using MySql.Data.MySqlClient;
 
 namespace projectforSql.DBemplouees
 {
-    public class AgentDAL
+    public  class AgentDAL
     {
-        public string connStr = "server=localhost;username=root;password=;database=eagleeyedb";
-        public MySqlConnection con;
-        public string Query;
-        public AgentDAL() {
+        public  string connStr = "server=localhost;username=root;password=;database=eagleeyedb";
+        public  MySqlConnection con;
+        public  string Query;
+        public   AgentDAL() {
            this.con = new MySqlConnection(connStr);
         }
         public void AddedAgent(Agent agent)
